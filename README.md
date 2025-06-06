@@ -1,55 +1,46 @@
-<h1 align="center">👨‍💻 Nathan Zurita Barreto</h1>
+<h1 align="center">Fala aí! Eu sou o Nathan Zurita 👨‍💻</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | UVV - Universidade de Vila Velha <br/>
-  🧠 Foco em Desenvolvimento Web, Back-End e Software <br/>
-  🚀 Em busca de estágio na área de tecnologia <br/>
+  Estudante de Ciência da Computação na <strong>UVV - Universidade de Vila Velha</strong> <br>
+  Foco em <strong>Desenvolvimento Web</strong>, <strong>Back-End</strong> e <strong>Software</strong> <br>
+  Atualmente em busca de oportunidades como <strong>estagiário na área de tecnologia</strong> <br>
   🌍 São Paulo-SP → Cariacica-ES
 </p>
 
 ---
 
-<h2>🧪 Projetos em Destaque</h2>
-
-<ul>
-  <li><strong>Site para Consultório Online</strong> — sistema de teleatendimento com agendamento</li>
-  <li><strong>Plataforma Fortes Engenharia</strong> — upload e organização de arquivos em categorias</li>
-</ul>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=tokyonight&hide=prs,issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-<h2>⚙️ Habilidades Técnicas</h2>
+### 💻 Tecnologias que eu uso
 
-<table>
-  <tr>
-    <td><strong>Linguagens</strong></td>
-    <td>Python, JavaScript, HTML, CSS, C#, MySQL, PHP, Java (básico)</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks/Ferramentas</strong></td>
-    <td>Node.js, .NET, Git, Figma, After Effects, CorelDraw X8</td>
-  </tr>
-  <tr>
-    <td><strong>Extras</strong></td>
-    <td>Manutenção de PCs, Armazenamento em Nuvem, Operador de Drone</td>
-  </tr>
-</table>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+### 🌐 Contato
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div>
+  <a href="mailto:nathanzurita8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-zurita" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5527999299325?text=Ol%C3%A1%2C%20Nathan!" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
 
----
-
-<h2>📫 Contato</h2>
-
-<p>
-  ✉️ Email: <a href="mailto:nathanzurita8@gmail.com">nathanzurita8@gmail.com</a> <br/>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/nathan-zurita" target="_blank">linkedin.com/in/nathan-zurita</a>
-</p>
