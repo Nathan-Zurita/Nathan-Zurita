@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=25&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!😁👋🏻;Eu+sou+o+Nathan+Zurita👱🏻‍♂️;Desenvolvedor+Web/Software+em+formação💻)](https://git.io/typing-svg)<br>
 
 <p>• 💻 Foco em <b>Desenvolvimento Web</b>, <b>Back-End</b> e <b>Software</b></p>
-<p>• 🌍 De São Paulo-SP, morando em Cariacica-ES</p>
+<p>• 🌍 Cariacica-ES</p>
 <p>• 💼 Em busca de estágio na área de tecnologia</p><br>
 
 <div align="center">
