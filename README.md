@@ -40,9 +40,9 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanzurita&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanzurita&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -50,6 +50,6 @@
 <h2>📫 Contato</h2>
 
 <p>
-  ✉️ Email: <a href="mailto:seuemail@email.com">seuemail@email.com</a> <br/>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/seulink" target="_blank">linkedin.com/in/seulink</a>
+  ✉️ Email: <a href="mailto:nathanzurita8@gmail.com">nathanzurita8@gmail.com</a> <br/>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/nathan-zurita" target="_blank">linkedin.com/in/nathan-zurita</a>
 </p>
