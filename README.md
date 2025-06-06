@@ -1,78 +1,46 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=75&section=header"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&width=435&lines=Fala+a%C3%AD%2C+eu+sou+o+Nathan+Zurita!;Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Back-End+%2B+Software+%3D+%E2%9D%A4" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=25&center=true&vCenter=true&width=1000&duration=3000&lines=Fala+aí!👋🏻;Eu+sou+o+Nathan+Zurita;Desenvolvedor+Web+em+formação💻)](https://git.io/typing-svg)<br>
 
-<p align="center">
-  Foco em <strong>Desenvolvimento Web</strong>, <strong>Back-End</strong> e <strong>Software</strong> <br>
-  🌍 São Paulo-SP → Cariacica-ES <br>
-  💼 Em busca de estágio na área de tecnologia
-</p>
+<p>• 💻 Foco em <b>Desenvolvimento Web</b>, <b>Back-End</b> e <b>Software</b></p>
+<p>• 🌍 De São Paulo-SP, morando em Cariacica-ES</p>
+<p>• 💼 Em busca de estágio na área de tecnologia</p><br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=synthwave"/>
+
+</div>
 
 ---
 
-### 🎮 Joguinho: Snake (use as setas!)
-<p align="center">
-  <a href="https://snake.nathanzurita.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake!-darkgreen?style=for-the-badge&logo=python&logoColor=white"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="NathanHTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="NathanCSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NathanJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="NathanReact" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NathanNode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NathanPython" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NathanMySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div><br>
+
+---
+
+## 📞 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathan-zurita/" title="LinkedIn">
+    <img width="150px" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nathanzurita8@gmail.com" title="Gmail">
+    <img width="130px" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5527999299325?text=Ol%C3%A1%2C%20Nathan!" title="WhatsApp">
+    <img width="160px" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
----
-
-### 💻 Tecnologias que uso
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=radical&hide=prs,issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 📞 Contato
-
-<p align="center">
-  <a href="mailto:nathanzurita8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nathan-zurita" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5527999299325?text=Ol%C3%A1%2C%20Nathan!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🔥 Contributions & Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nathan-Zurita&theme=rogue&hide_border=true" />
-</p>
-
----
-
-### 🕹️ Mini-Games & Easter Eggs
-- 🔗 [Play Snake!](https://playsnake.org/)
-- 🔗 [Play Pong!](https://ponggame.org/)
-- 🔗 [Code your own game with JavaScript!](https://jsfiddle.net/)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=75&section=footer"/>
