@@ -6,12 +6,11 @@
 <p>• 🌍 De São Paulo-SP, morando em Cariacica-ES</p>
 <p>• 💼 Em busca de estágio na área de tecnologia</p><br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=tokyonight"/>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan-Zurita&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Zurita&layout=compact&theme=tokyonight"/>
 </div>
+>
 
 ---
 
